@@ -32,3 +32,6 @@ if __name__ == "__main__":
     
     # The script will not reach this point unless you add a condition to stop the timer
     # ser.close()
+    
+    
+    # yeni seyler 
